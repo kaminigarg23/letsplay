@@ -1,15 +1,19 @@
 *{
-    background-color: rgba(92, 169, 205, 0.521);
+    background-color: wheat;
+    justify-content: center;
 }
 .body{
     font-size: larger;
     font-weight: bold;
     color: blue;
     text-align: center;
+    
 }
 .nav-bar{
     display: flex;
+    
 }
 .footer{
     margin: 10px;
+    
 }
