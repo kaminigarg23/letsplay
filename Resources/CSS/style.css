@@ -4,6 +4,6 @@
     color: blue;
     text-align: center;
 }
-*{
-    align-items: center;
+.nav-bar{
+    display: flex;
 }
