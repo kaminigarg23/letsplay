@@ -1,6 +1,9 @@
-.title{
+.text-body{
     font-size: larger;
     font-weight: bold;
     color: blue;
     text-align: center;
+}
+.img{
+    align-items: center;
 }
